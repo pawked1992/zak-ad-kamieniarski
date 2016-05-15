@@ -1,0 +1,152 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1459614158387">
+  <folder name="css">
+    <file name="site_global.css" crc="312322282"/>
+    <file name="master_a-wzorcowa.css" crc="3919263291" ref="podwójne:budowlanka:oferta:inne:index:kontakt:usługi:materiały:nagrobki:pojedyńcze"/>
+    <file name="podw_jne.css" crc="3829850265" ref="podwójne"/>
+    <file name="budowlanka.css" crc="511891230" ref="budowlanka"/>
+    <file name="oferta.css" crc="271878730" ref="oferta"/>
+    <file name="inne.css" crc="4084798702" ref="inne"/>
+    <file name="index.css" crc="482315733" ref="index"/>
+    <file name="kontakt.css" crc="434562540" ref="kontakt"/>
+    <file name="iefonts_kontakt.css" crc="3832202010" ref="kontakt"/>
+    <file name="us_ugi.css" crc="4117606054" ref="usługi"/>
+    <file name="materia_y.css" crc="69557880" ref="materiały"/>
+    <file name="nagrobki.css" crc="4124288143" ref="nagrobki"/>
+    <file name="pojedy_cze.css" crc="222230045" ref="pojedyńcze"/>
+  </folder>
+  <folder name="assets">
+    <file name="black-cosmic.jpg" crc="4188818923" mt="1457805365000"/>
+    <file name="infinite-logo_23-2147515990.png" crc="3766761281" mt="1457805973000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="tablet>index:tablet>oferta:tablet>nagrobki:tablet>budowlanka:tablet>usługi:tablet>kontakt:index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="museutils.js" crc="4136605575" ref="tablet>index:tablet>oferta:tablet>nagrobki:tablet>budowlanka:tablet>usługi:tablet>kontakt:index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:tablet>oferta:tablet>nagrobki:tablet>budowlanka:tablet>usługi:tablet>kontakt:index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="jquery.watch.js" crc="172956391" ref="tablet>index:tablet>oferta:tablet>nagrobki:tablet>budowlanka:tablet>usługi:tablet>kontakt:index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="webpro.js" crc="420478120" ref="kontakt:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="form_check.php" crc="313295658" ref="kontakt"/>
+    <file name="form_throttle.php" crc="254134657" ref="kontakt"/>
+    <file name="form_process.php" crc="18777554" ref="kontakt"/>
+    <file name="form-u1104.php" crc="526240931" ref="kontakt"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="pojedyńcze:podwójne:inne:materiały"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="pojedyńcze:podwójne:inne:materiały"/>
+    <file name="touchswipe.js" crc="60020316" ref="pojedyńcze:podwójne:inne:materiały"/>
+  </folder>
+  <folder name="images">
+    <file name="black-cosmic.jpg" crc="4188818923" ref="tablet>index:tablet>oferta:tablet>nagrobki:tablet>budowlanka:tablet>usługi:tablet>kontakt:index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="infinite-logo_23-2147515990.png" crc="112975533" ref="index:oferta:nagrobki:kontakt:usługi:budowlanka:pojedyńcze:podwójne:inne:materiały"/>
+    <file name="u1110-17.png" crc="311997899" ref="kontakt"/>
+    <file name="u1110-17-r.png" crc="3963339244" ref="kontakt"/>
+    <file name="u1110-17-m.png" crc="4131652402" ref="kontakt"/>
+    <file name="u1110-17-fs.png" crc="3906007304" ref="kontakt"/>
+    <file name="001.jpg" crc="3925199139" ref="pojedyńcze:podwójne:inne"/>
+    <file name="blank.gif" crc="4208392903" ref="pojedyńcze:podwójne:inne:materiały"/>
+    <file name="95.jpg" crc="3844162807" ref="pojedyńcze:podwójne:inne"/>
+    <file name="107.jpg" crc="4008820625" ref="pojedyńcze:podwójne:inne"/>
+    <file name="131.jpg" crc="393549312" ref="pojedyńcze:podwójne:inne"/>
+    <file name="132.jpg" crc="418040095" ref="pojedyńcze:podwójne:inne"/>
+    <file name="nagrobki-pojedyncze-1-crop-u1822.jpg" crc="495244512" ref="pojedyńcze"/>
+    <file name="loading.gif" crc="3815509949" ref="pojedyńcze:podwójne:inne:materiały"/>
+    <file name="nagrobki-pojedyncze-1-crop-u1842.jpg" crc="495244512" ref="podwójne"/>
+    <file name="nagrobki-pojedyncze-1-crop-u1895.jpg" crc="495244512" ref="inne"/>
+    <file name="absolut_black.jpg" crc="4175947248" ref="materiały"/>
+    <file name="amadeusz.jpg" crc="368439214" ref="materiały"/>
+    <file name="aurora.jpg" crc="4043324079" ref="materiały"/>
+    <file name="balmoral.jpg" crc="227063529" ref="materiały"/>
+    <file name="baltic_blue.jpg" crc="4099238661" ref="materiały"/>
+    <file name="baltic_brown.jpg" crc="3929393998" ref="materiały"/>
+    <file name="baltic_green.jpg" crc="3837592324" ref="materiały"/>
+    <file name="bengal_black.jpg" crc="4221097093" ref="materiały"/>
+    <file name="bohus.jpg" crc="383882314" ref="materiały"/>
+    <file name="butterfly_blue.jpg" crc="4272489738" ref="materiały"/>
+    <file name="galaxy.jpg" crc="288690739" ref="materiały"/>
+    <file name="gnejs.jpg" crc="3897710695" ref="materiały"/>
+    <file name="himalaja.jpg" crc="229988530" ref="materiały"/>
+    <file name="impala_dark.jpg" crc="3865349046" ref="materiały"/>
+    <file name="impala_maricana.jpg" crc="405222504" ref="materiały"/>
+    <file name="indian_aurora.jpg" crc="3992724020" ref="materiały"/>
+    <file name="jet_black.jpg" crc="3853749240" ref="materiały"/>
+    <file name="kapustin.jpg" crc="298367100" ref="materiały"/>
+    <file name="kashmir_white.jpg" crc="96458013" ref="materiały"/>
+    <file name="labrador.jpg" crc="3970231344" ref="materiały"/>
+    <file name="multicolor_red.jpg" crc="290973816" ref="materiały"/>
+    <file name="olive_green.jpg" crc="309739812" ref="materiały"/>
+    <file name="orion.jpg" crc="3843880472" ref="materiały"/>
+    <file name="premium_black.jpg" crc="74224563" ref="materiały"/>
+    <file name="shiva_gold.jpg" crc="4268911706" ref="materiały"/>
+    <file name="star_ruby.jpg" crc="142774189" ref="materiały"/>
+    <file name="steel_grey.jpg" crc="4243599401" ref="materiały"/>
+    <file name="szwed.jpg" crc="4269930686" ref="materiały"/>
+    <file name="tokowski.jpg" crc="298231211" ref="materiały"/>
+    <file name="tropical_green.jpg" crc="3783341390" ref="materiały"/>
+    <file name="verde_bahia.jpg" crc="4055386074" ref="materiały"/>
+    <file name="verde_gloria.jpg" crc="3938709409" ref="materiały"/>
+    <file name="verde_marina.jpg" crc="341561148" ref="materiały"/>
+    <file name="verde_san_franciso.jpg" crc="178853365" ref="materiały"/>
+    <file name="viscont_white.jpg" crc="441822908" ref="materiały"/>
+    <file name="absolut_black60x56.jpg" crc="369063881" ref="materiały"/>
+    <file name="amadeusz60x56.jpg" crc="3930133136" ref="materiały"/>
+    <file name="aurora60x56.jpg" crc="4045423790" ref="materiały"/>
+    <file name="balmoral60x56.jpg" crc="424697577" ref="materiały"/>
+    <file name="baltic_blue60x56.jpg" crc="223262141" ref="materiały"/>
+    <file name="baltic_brown60x56.jpg" crc="86584108" ref="materiały"/>
+    <file name="baltic_green60x56.jpg" crc="3921676938" ref="materiały"/>
+    <file name="bengal_black60x56.jpg" crc="405820901" ref="materiały"/>
+    <file name="bohus60x56.jpg" crc="4962073" ref="materiały"/>
+    <file name="butterfly_blue60x56.jpg" crc="334358303" ref="materiały"/>
+    <file name="galaxy60x56.jpg" crc="384362697" ref="materiały"/>
+    <file name="gnejs60x56.jpg" crc="409354501" ref="materiały"/>
+    <file name="himalaja60x56.jpg" crc="4008194227" ref="materiały"/>
+    <file name="impala_dark60x56.jpg" crc="4094615727" ref="materiały"/>
+    <file name="impala_maricana60x56.jpg" crc="4210848744" ref="materiały"/>
+    <file name="indian_aurora60x56.jpg" crc="180207470" ref="materiały"/>
+    <file name="jet_black60x56.jpg" crc="243349288" ref="materiały"/>
+    <file name="kapustin60x56.jpg" crc="4083101048" ref="materiały"/>
+    <file name="kashmir_white60x56.jpg" crc="4097039938" ref="materiały"/>
+    <file name="labrador60x56.jpg" crc="372622204" ref="materiały"/>
+    <file name="multicolor_red60x56.jpg" crc="4257417448" ref="materiały"/>
+    <file name="olive_green60x56.jpg" crc="4010944921" ref="materiały"/>
+    <file name="orion60x56.jpg" crc="3772590986" ref="materiały"/>
+    <file name="premium_black60x56.jpg" crc="3911866105" ref="materiały"/>
+    <file name="shiva_gold60x56.jpg" crc="3793934841" ref="materiały"/>
+    <file name="star_ruby60x56.jpg" crc="3964949326" ref="materiały"/>
+    <file name="steel_grey60x56.jpg" crc="151892453" ref="materiały"/>
+    <file name="szwed60x56.jpg" crc="4226383552" ref="materiały"/>
+    <file name="tokowski60x56.jpg" crc="417534181" ref="materiały"/>
+    <file name="tropical_green60x56.jpg" crc="476609419" ref="materiały"/>
+    <file name="verde_bahia60x56.jpg" crc="3902399866" ref="materiały"/>
+    <file name="verde_gloria60x56.jpg" crc="3875273659" ref="materiały"/>
+    <file name="verde_marina60x56.jpg" crc="39932040" ref="materiały"/>
+    <file name="verde_san_franciso60x56.jpg" crc="277643457" ref="materiały"/>
+    <file name="viscont_white60x56.jpg" crc="225856785" ref="materiały"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="us_ugi.css" crc="139038047" ref="tablet>usługi"/>
+      <file name="nagrobki.css" crc="139038047" ref="tablet>nagrobki"/>
+      <file name="index.css" crc="339680774" ref="tablet>index"/>
+      <file name="budowlanka.css" crc="139038047" ref="tablet>budowlanka"/>
+      <file name="kontakt.css" crc="139038047" ref="tablet>kontakt"/>
+      <file name="oferta.css" crc="339680774" ref="tablet>oferta"/>
+    </folder>
+    <file name="index.html" crc="417332973" mt="1458154226413" redirect="false"/>
+    <file name="oferta.html" crc="441189387" mt="1458154226488" redirect="false"/>
+    <file name="nagrobki.html" crc="293449289" mt="1458154226584" redirect="false"/>
+    <file name="budowlanka.html" crc="162428708" mt="1458237598324" redirect="false"/>
+    <file name="usługi.html" crc="234541468" mt="1458237609762" redirect="false"/>
+    <file name="kontakt.html" crc="306277230" mt="1458154226715" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4134228427" mt="1459614136316" redirect="true"/>
+  <file name="oferta.html" crc="3993381953" mt="1459614136317" redirect="true"/>
+  <file name="nagrobki.html" crc="444947424" mt="1459614136318" redirect="true"/>
+  <file name="kontakt.html" crc="3981295730" mt="1459614136319" redirect="true"/>
+  <file name="usługi.html" crc="377842753" mt="1459614136320" redirect="true"/>
+  <file name="budowlanka.html" crc="3874946511" mt="1459614136321" redirect="true"/>
+  <file name="pojedyńcze.html" crc="4208486773" mt="1459614136321" redirect="true"/>
+  <file name="podwójne.html" crc="310264115" mt="1459614136322" redirect="true"/>
+  <file name="inne.html" crc="4005714976" mt="1459614136323" redirect="true"/>
+  <file name="materiały.html" crc="8631763" mt="1459614136325" redirect="true"/>
+</manifest>
